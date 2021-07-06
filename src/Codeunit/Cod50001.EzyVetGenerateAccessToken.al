@@ -1,5 +1,6 @@
 codeunit 50001 "EzyVet GenerateAccessToken"
 {
+    
     procedure GenerateAccessToken()
     var
         APIConfiguration: Record "EzyVet API Configuration";
